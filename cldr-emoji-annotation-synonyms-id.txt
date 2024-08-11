@@ -78,8 +78,8 @@
 🤠 => 🤠, cowboy, cowgirl, koboi, topi, wajah koboi
 🥳 => 🥳, perayaan, pesta, terompet, topi, wajah pesta
 🥸 => 🥸, hidung, kacamata, menyamar, penyamaran, wajah
-😎 => 😎, kacamata hitam, keren, matahari, pintar, wajah, wajah berkacamata hitam, wajah tersenyum memakai kacamata
-🤓 => 🤓, buku, kutu, muka, wajah
+😎 => 😎, keren, matahari, pintar, wajah, wajah berkacamata hitam, wajah tersenyum memakai kacamata
+🤓 => 🤓, kutu buku, muka, wajah
 🧐 => 🧐, curiga, mencari tahu kebenaran, wajah dengan monokel
 😕 => 😕, bingung, muka, wajah
 🫤 => 🫤, kecewa, meh, skeptis, tidak yakin, wajah dengan mulut diagonal
