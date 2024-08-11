@@ -1784,11 +1784,11 @@
 🤝🏽 => 🤝🏽, jabat tangan, jabat tangan warna kulit sedang, salaman, sepakat, setuju, tangan, warna kulit sedang
 🤝🏾 => 🤝🏾, jabat tangan, jabat tangan warna kulit gelap-sedang, salaman, sepakat, setuju, tangan, warna kulit gelap-sedang
 🤝🏿 => 🤝🏿, jabat tangan, jabat tangan warna kulit gelap, salaman, sepakat, setuju, tangan, warna kulit gelap
-🙏🏻 => 🙏🏻, berdoa, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit cerah, mohon, tangan, tolong, tubuh, warna kulit cerah
-🙏🏼 => 🙏🏼, berdoa, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit cerah-sedang, mohon, tangan, tolong, tubuh, warna kulit cerah-sedang
-🙏🏽 => 🙏🏽, berdoa, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit sedang, mohon, tangan, tolong, tubuh, warna kulit sedang
-🙏🏾 => 🙏🏾, berdoa, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit gelap-sedang, mohon, tangan, tolong, tubuh, warna kulit gelap-sedang
-🙏🏿 => 🙏🏿, berdoa, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit gelap, mohon, tangan, tolong, tubuh, warna kulit gelap
+🙏🏻 => 🙏🏻, mohon, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit cerah, mohon, tangan, tolong, tubuh, warna kulit cerah
+🙏🏼 => 🙏🏼, mohon, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit cerah-sedang, mohon, tangan, tolong, tubuh, warna kulit cerah-sedang
+🙏🏽 => 🙏🏽, mohon, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit sedang, mohon, tangan, tolong, tubuh, warna kulit sedang
+🙏🏾 => 🙏🏾, mohon, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit gelap-sedang, mohon, tangan, tolong, tubuh, warna kulit gelap-sedang
+🙏🏿 => 🙏🏿, mohon, bungkuk, gerakan, lipat, makasih, melipat tangan, melipat tangan warna kulit gelap, mohon, tangan, tolong, tubuh, warna kulit gelap
 ✍🏻 => ✍🏻, badan, nulis, tangan, tangan menulis, tangan menulis warna kulit cerah, tubuh, tulis, warna kulit cerah
 ✍🏼 => ✍🏼, badan, nulis, tangan, tangan menulis, tangan menulis warna kulit cerah-sedang, tubuh, tulis, warna kulit cerah-sedang
 ✍🏽 => ✍🏽, badan, nulis, tangan, tangan menulis, tangan menulis warna kulit sedang, tubuh, tulis, warna kulit sedang
