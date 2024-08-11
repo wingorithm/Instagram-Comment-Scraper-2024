@@ -8,12 +8,12 @@
 ♯ => ♯, kres, musik, nada kres, not, not balok
 😀 => 😀, bahagia, gembira
 😃 => 😃, senyum, wajah tersenyum lebar
-😄 => 😄, wajah tersenyum lebar dan mata tertutup
-😁 => 😁, wajah gembira dengan mata bahagia
-😆 => 😆, wajah tersenyum lebar dan memejamkan mata
+😄 => 😄, bahagia, wajah tersenyum lebar dan mata tertutup
+😁 => 😁, senang, wajah gembira dengan mata bahagia
+😆 => 😆, tertawa, wajah tersenyum lebar dan memejamkan mata
 😅 => 😅, waduh, kesalahan, wajah tersenyum lebar dan berkeringat
 🤣 => 🤣, kocak, lucu, ngakak, tertawa, tertawa terbahak-bahak
-😂 => 😂, tertawa mengis, lucu, wajah, wajah dengan air mata bahagia, wajah gembira berurai air mata
+😂 => 😂, tertawa menagis, lucu, wajah, wajah dengan air mata bahagia, wajah gembira berurai air mata
 🙂 => 🙂, muka, senyum, wajah, wajah agak tersenyum
 🙃 => 🙃, muka, terbalik, wajah
 🫠 => 🫠, cairan, larut, meleleh, menghilang, wajah meleleh
@@ -45,7 +45,7 @@
 🤐 => 🤐, muka, mulut, rapat, tertutup, wajah, wajah dengan mulut tertutup rapat
 🤨 => 🤨, ragu, skeptis, tidak percaya, wajah dengan alis terangkat
 😐 => 😐, datar, muka, netral, wajah
-😑 => 😑, datar, biasa saja, lempeng, muka, tanpa, wajah
+😑 => 😑, biasa saja, lempeng, muka, tanpa, wajah
 😶 => 😶, diam, muka, mulut, tenang, wajah, wajah tanpa mulut
 🫥 => 🫥, introvert, menghilang, sembunyikan, tak terlihat, tertekan, wajah dengan garis titik-titik
 😶‍🌫 => 😶‍🌫, kepala di awan, linglung, wajah di awan, wajah di kabut
