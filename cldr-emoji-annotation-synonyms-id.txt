@@ -143,9 +143,9 @@
 💓 => 💓, denyut, detak, hati, hati berdetak, jantung
 💞 => 💞, berputar, hati
 💕 => 💕, cinta, dua hati, hati
-💟 => 💟, dekorasi hati, hati
-❣ => ❣, hati, seru, tanda, tanda seru berbentuk hati
-💔 => 💔, hati, patah, putus
+💟 => 💟, cinta, hati, hati
+❣ => ❣, cinta, seru, tanda, tanda seru berbentuk hati
+💔 => 💔, patah hati, patah, putus
 ❤‍🔥 => ❤‍🔥, cinta, hati, hati berapi-api, hati suci, nafsu, terbakar
 ❤‍🩹 => ❤‍🩹, lebih sehat, memperbaiki, memulihkan, memulihkan diri, mengobati hati terluka
 ❤ => ❤, hati, suka
