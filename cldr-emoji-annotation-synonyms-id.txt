@@ -1352,7 +1352,7 @@
 ⚱ => ⚱, abu, guci, kematian, penguburan
 🧿 => 🧿, jimat, manik-manik, mantra, mata setan, nazar
 🪬 => 🪬, Fatima, hamsa, jimat, Maria, Mariam, perlindungan, tangan
-🗿 => 🗿, biasa, standar, patung, wajah
+🗿 => 🗿, tidak habis pikir, standar, patung, wajah
 🪧 => 🪧, demonstrasi, papan penanda, plakat, protes
 🪪 => 🪪, identitas, kartu identitas, keamanan, kredensial, SIM
 🏧 => 🏧, atm, bank, otomatis, tanda ATM, teller
@@ -1704,11 +1704,11 @@
 👆🏽 => 👆🏽, atas, badan, jari, menunjuk ke atas (dibalik), menunjuk ke atas (dibalik warna kulit sedang, tangan, telunjuk, tubuh, tunjuk, warna kulit sedang
 👆🏾 => 👆🏾, atas, badan, jari, menunjuk ke atas (dibalik), menunjuk ke atas (dibalik warna kulit gelap-sedang, tangan, telunjuk, tubuh, tunjuk, warna kulit gelap-sedang
 👆🏿 => 👆🏿, atas, badan, jari, menunjuk ke atas (dibalik), menunjuk ke atas (dibalik warna kulit gelap, tangan, telunjuk, tubuh, tunjuk, warna kulit gelap
-🖕🏻 => 🖕🏻, jari, jari tengah, jari tengah warna kulit cerah, tangan, warna kulit cerah
-🖕🏼 => 🖕🏼, jari, jari tengah, jari tengah warna kulit cerah-sedang, tangan, warna kulit cerah-sedang
-🖕🏽 => 🖕🏽, jari, jari tengah, jari tengah warna kulit sedang, tangan, warna kulit sedang
-🖕🏾 => 🖕🏾, jari, jari tengah, jari tengah warna kulit gelap-sedang, tangan, warna kulit gelap-sedang
-🖕🏿 => 🖕🏿, jari, jari tengah, jari tengah warna kulit gelap, tangan, warna kulit gelap
+🖕🏻 => 🖕🏻, fuck of, jari tengah, jari tengah warna kulit cerah, tangan, warna kulit cerah
+🖕🏼 => 🖕🏼, fuck of, jari tengah, jari tengah warna kulit cerah-sedang, tangan, warna kulit cerah-sedang
+🖕🏽 => 🖕🏽, fuck of, jari tengah, jari tengah warna kulit sedang, tangan, warna kulit sedang
+🖕🏾 => 🖕🏾, fuck of, jari tengah, jari tengah warna kulit gelap-sedang, tangan, warna kulit gelap-sedang
+🖕🏿 => 🖕🏿, fuck of, jari tengah, jari tengah warna kulit gelap, tangan, warna kulit gelap
 👇🏻 => 👇🏻, badan, bawah, jari, menunjuk ke bawah, menunjuk ke bawah warna kulit cerah, tangan, tengah, tubuh, tunjuk, warna kulit cerah
 👇🏼 => 👇🏼, badan, bawah, jari, menunjuk ke bawah, menunjuk ke bawah warna kulit cerah-sedang, tangan, tengah, tubuh, tunjuk, warna kulit cerah-sedang
 👇🏽 => 👇🏽, badan, bawah, jari, menunjuk ke bawah, menunjuk ke bawah warna kulit sedang, tangan, tengah, tubuh, tunjuk, warna kulit sedang
